@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    deep_merge (1.0.1)
+    json (1.8.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  deep_merge
+  json

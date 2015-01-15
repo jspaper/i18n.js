@@ -1,0 +1,3 @@
+default:
+    hello: "Hello"
+    lala: "La La"
